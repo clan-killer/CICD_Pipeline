@@ -1,0 +1,7 @@
+access_token = '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'
+owner = 'bpechetti'
+repo = 'CICD_Pipeline'
+branch ='main' 
+local_repo = 'D:\herovired\CICD\CICD_Pipeline'
+nginx_path ='/var/www/html/CICD_Pipeline'
+files_to_copy ='index.html'
